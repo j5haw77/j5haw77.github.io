@@ -27,4 +27,5 @@ https://www.linkedin.com/in/jackson-shaw-5a8a2ab1/
 **Informatics Minor**
 **Class of 2020**
 [University of Washington](https://www.washington.edu/)
+
 ![UW logo](img/UW_Logo.png)
