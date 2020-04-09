@@ -10,3 +10,7 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
+
+#tagline {
+  size: 18pt
+}
