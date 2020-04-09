@@ -1,5 +1,7 @@
 # Jackson Shaw
 
+>"Not all those who wander are lost." - J.R.R. Tolkien
+
 jacksonshaw7427@gmail.com
 
 https://www.linkedin.com/in/jackson-shaw-5a8a2ab1/
@@ -17,7 +19,7 @@ https://www.linkedin.com/in/jackson-shaw-5a8a2ab1/
 # Work Experience
  - Engineering Intern for Parallax Inc.
  - Survey worker for the TCPUD
- - LIDAR Analysis Intern for Geographic Surveyors, Inc
+ - [LIDAR Analysis Intern for Geographic Surveyors, Inc](https://www.gissurveyors.com/)
 
 ## University of Washington (Seattle, WA)
 
